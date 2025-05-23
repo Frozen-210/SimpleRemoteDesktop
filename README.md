@@ -9,6 +9,5 @@
 
 **Simple interaction work scheme:**
 
-![SRD_sheme](https://user-images.githubusercontent.com/13070282/79386197-78542080-7f72-11ea-8c26-3611b935c79a.jpg)
-
+![SRD_sheme](https://github.com/user-attachments/assets/06d65648-6a61-462b-9a50-0b10206e5d9e)
 
